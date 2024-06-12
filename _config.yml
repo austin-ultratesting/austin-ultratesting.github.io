@@ -8,6 +8,9 @@ name: Reverie
 # Name of the author
 author: Amit Merchant
 
+# Repo Author
+repo-author: Austin Bell
+
 # Short bio or description (displayed in the header)
 description: An elegant Jekyll theme
 
